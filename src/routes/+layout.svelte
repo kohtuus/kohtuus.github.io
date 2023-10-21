@@ -23,21 +23,7 @@
 	}
 	main {
 		flex-grow: 1;
-		padding-bottom: 8rem;
-		max-width: 100rem;
 		margin-top: calc(1rem + 2vw);
-	}
-
-	@media (min-width: 80rem) {
-		main {
-			margin-left: calc(0.1rem + 5vw);
-		}
-	}
-
-	@media (min-width: 100rem) {
-		main {
-			margin-left: calc(0.3rem + 10vw);
-		}
 	}
 
 	footer {

@@ -23,10 +23,10 @@ html {
 html,
 body {
 	height: 100%;
+	width: 100%;
 }
 
 body {
-	margin: 0;
 	background: var(--color-background);
 	color: var(--color-text);
 	font-family: var(--font-base);
@@ -50,7 +50,7 @@ h6 {
    h5 is 0.8 em
    h6 is 0.7 em */
 h1 {
-	font-size: 2.5em;
+	font-size: 5em;
 	hyphens: auto;
 }
 h2 {
@@ -128,9 +128,6 @@ picture {
 }
 
 #svelte {
-	/* Center the whole site the old-fashioned way */
-	max-width: 130rem;
-	margin: 0 auto;
 	padding: 0 2rem;
 	display: flex;
 	min-height: 100vh;

@@ -4,6 +4,7 @@
 
 <style>
 	.content {
-		max-width: 50rem;
+		width: 100%;
+		margin: 0 auto;
 	}
 </style>
