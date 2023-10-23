@@ -76,16 +76,16 @@
 		</ContentBlock>
 		<ContentBlock color="plain">
 			<People>
-				<Person id="timo" name="Timo Tiuraniemi">
+				<Person id="ansku" name="Anna-Liisa Arjama">
 					<p>
-						Timo on filosofiataustainen ohjelmoija ja aktivisti. Hän on kiinnostunut avoimen
-						lähdekoodin ohjelmistoista ja teknologianfilosofiasta sekä niiden suhteesta
-						degrowth-ajatteluun. Timo vastaa tämän sivuston teknisestä ylläpidosta.
+                        Anna-Liisa on työskennellyt yli 20 vuotta erilaisissa rooleissa sote-palveluissa. Häntä kiinnostaa
+                        hoivatyön – ammattimaisen ja epämuodollisen – esiinnostaminen yhteiskunnassa. Anna-Liisa ei
+                        usko, että talouskasvun avulla voidaan ratkaista kaikkein haavoittuvammassa asemassa olevien
+                        ihmisten ongelmia.
 					</p>
 					<p>
-						sähköposti: <a href="mailto:timo.tiuraniemi@kohtuus.org">timo.tiuraniemi@kohtuus.org</a
+						sähköposti: <a href="mailto:anna-liisa.arjama@kohtuus.org">anna-liisa.arjama@kohtuus.org</a
 						><br />
-						kotisivu: <a href="https://tiuraniemi.org">tiuraniemi.org</a><br />
 					</p>
 				</Person>
 				<Person id="timo" name="Timo Tiuraniemi">
