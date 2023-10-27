@@ -1,4 +1,4 @@
-<div class="people">
+<div class="people small-body">
 	<slot />
 </div>
 

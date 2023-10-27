@@ -20,7 +20,7 @@
 			<h1 style="margin-bottom: 0;">
 				<span style="color: #E56B29;">Koht</span><i style="color: #5FA318;">uus</i>
 			</h1>
-			<h3 style="color: #5FA318;">Radikaalisti parempi yhteiskunta</h3>
+			<h4 style="color: #5FA318;">Radikaalisti parempi yhteiskunta</h4>
 		</div>
 	</Hero>
 	<Content>
