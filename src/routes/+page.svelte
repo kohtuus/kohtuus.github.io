@@ -26,22 +26,17 @@
 	<Content>
 		<ContentBlock color="green">
 			<p>
-				Kuvittele tulevaisuus, jossa et vie toisten mahdollisuuksia hyvään elämään – lähellä ja
-				kaukana, nyt ja tulevaisuudessa.
+				Kuvittele tulevaisuus, jossa olet osa elämän kiertokulkua ja luonnon hyvinvointi on myös
+				sinun hyvinvointiasi. Et vie toisten mahdollisuuksia hyvään elämään – lähellä ja kaukana,
+				nyt ja tulevaisuudessa. Kuulut valitsemaasi yhteisöön, joka välittää ja tukee, mutta on myös
+				osa laajempaa demokraattista yhteiskuntaa. Voit hidastaa vauhtia ilman, että tunnet huonoa
+				omaatuntoa siitä.
 			</p>
-			<p>
-				Koet olevasi osa elämän kiertokulkua ja luonnon hyvinvointi on myös sinun hyvinvointiasi.
-			</p>
-			<p>
-				Kuulut yhteisöön joka välittää ja tukee, mutta on myös osa laajempaa demokraattista
-				yhteiskuntaa.
-			</p>
-			<p>Voit hidastaa vauhtia ilman että tunnet huonoa omaa tuntoa siitä.</p>
 		</ContentBlock>
 		<ContentBlock color="plain">
-			<h3>Mikä on Degrowth?</h3>
+			<h3>Mikä on degrowth?</h3>
 			<p>
-				<b>Degrowth</b>-liike yhdistää tieteen tekijöitä, aktivisteja, taiteilijoita ja ihmisiä
+				<b>Degrowth</b>-liike yhdistää tieteentekijöitä, aktivisteja, taiteilijoita ja ihmisiä,
 				jotka ovat huolissaan maailman tilanteesta.
 			</p>
 			<p>
@@ -49,42 +44,43 @@
 				jatkuvasta talouskasvusta.
 			</p>
 			<p>
-				<b>Degrowth</b> luo demokraattista yhteiskuntaa jossa jokaisella on mahdollisuus osallistua yhteisistä
-				asioista päättämiseen.
+				<b>Degrowth</b> luo demokraattista yhteiskuntaa, jossa jokaisella on mahdollisuus osallistua
+				yhteisistä asioista päättämiseen.
 			</p>
 			<p>
-				<b>Degrowth</b> ei ponista tyhjästä, maailmassa on monia liikkeitä ja omavairaisuuten pyrkiviä
-				yhteisöjä jotka jo nyt toimivat ekologisesti.
+				<b>Degrowth</b> ei ponnista tyhjästä. Maailmassa on monia vakiintuneita omavaraisuuten pyrkiviä
+				yhteisöjä ja radikaaleja liikkeitä, joista degrowth-ajattelu oppii ja joita se tukee.
 			</p>
 			<p>
-				<b>Degrowth</b> merkitsee globaalissa pohjoisessa radikaalia poliittista ja taloudellista uudelleenjärjestelyä
+				<b>Degrowth</b> merkitsee globaalissa pohjoisessa merkittävää poliittista ja taloudellista uudelleenjärjestelyä,
 				jossa energian ja resurssien käyttö on mitoitettu maapallon kantokyvyn rajoihin.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="orange">
 			<h3>Mikä on Koht<i>uus</i>?</h3>
 			<p>
-				Koht<i>uus</i> on ryhmä ja yhdistys, joka on kiinnostunut siitä, miten Degrowth-ajatukset ilmenevät
-				suomalaisessa keskustelussa. Tukemalla Degrowth ajattelua Suomessa haluamme herätellä kriittistä
+				Koht<i>uus</i> on ryhmä ja yhdistys, joka on kiinnostunut siitä, miten degrowth-ajatukset ilmenevät
+				suomalaisessa keskustelussa. Tukemalla degrowth-ajattelua Suomessa haluamme herätellä kriittistä
 				pohdintaa talouden ja politiikan rakenteista ja niiden kyvystä tarjota hyvä elämä kaikille.
 			</p>
 			<p>
-				Koht<i>uus</i> edistää kohtuutalouden tietoa ja toimintaa. Yhdistys toimii rahatalouden ulkopuolella
-				mutta kapitalistisessa yhteiskunnassamme yksilöt tarvitsevat silti rahaa elämiseen, minkä vuoksi
-				raha-asioissa toimimme yksilöinä yhdistyksen ulkopuolella.
+				Keräämme, tuotamme ja välitämme tietoa ja ajatuksia, sekä osallistumme yhteiskunnalliseen
+				toimintaan. Luomme tiloja, joissa ihmiset voivat kokoontua keskustelemaan. Toimimme
+				yhteistyössä toisten liikkeiden ja ryhmien kanssa Suomessa ja maailmalla.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="plain">
 			<People>
 				<Person id="ansku" name="Anna-Liisa Arjama">
 					<p>
-                        Anna-Liisa on työskennellyt yli 20 vuotta erilaisissa rooleissa sote-palveluissa. Häntä kiinnostaa
-                        hoivatyön – ammattimaisen ja epämuodollisen – esiinnostaminen yhteiskunnassa. Anna-Liisa ei
-                        usko, että talouskasvun avulla voidaan ratkaista kaikkein haavoittuvammassa asemassa olevien
-                        ihmisten ongelmia.
+						Anna-Liisa on työskennellyt yli 20 vuotta erilaisissa rooleissa sote-palveluissa. Häntä
+						kiinnostaa hoivatyön – ammattimaisen ja epämuodollisen – esiinnostaminen yhteiskunnassa.
+						Anna-Liisa ei usko, että talouskasvun avulla voidaan ratkaista kaikkein
+						haavoittuvammassa asemassa olevien ihmisten ongelmia.
 					</p>
 					<p>
-						sähköposti: <a href="mailto:anna-liisa.arjama@kohtuus.org">anna-liisa.arjama@kohtuus.org</a
+						sähköposti: <a href="mailto:anna-liisa.arjama@kohtuus.org"
+							>anna-liisa.arjama@kohtuus.org</a
 						><br />
 					</p>
 				</Person>
@@ -137,19 +133,15 @@
 					</p>
 				</Person>
 			</People>
-        </ContentBlock>
-        <ContentBlock color="green">
-            <div class="front-content" >
-                <h3>Haluatko tietää lisää?</h3>
-                <p>
-                    Läheetä sähköpostia osoitteeseen:
-                </p>
-                <p>
-                    <a href="mailto:info@kohtuus.org" style="color: white;">info@kohtuus.org</a>
-                </p>
-            </div>
-        </ContentBlock>
-        
-
+		</ContentBlock>
+		<ContentBlock color="green">
+			<div class="front-content">
+				<h3>Haluatko tietää lisää?</h3>
+				<p>Lähetä sähköpostia osoitteeseen:</p>
+				<p>
+					<a href="mailto:info@kohtuus.org" style="color: white;">info@kohtuus.org</a>
+				</p>
+			</div>
+		</ContentBlock>
 	</Content>
 </section>

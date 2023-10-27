@@ -21,12 +21,12 @@
 	}
 
 	.content-block--orange {
-        background-color: #e56b29;
-        color: white;
+		background-color: #e56b29;
+		color: white;
 	}
 	.content-block--green {
-        background-color: #5fa318;
-        color: white;
+		background-color: #5fa318;
+		color: white;
 	}
 
 	@media (min-width: 100rem) {
