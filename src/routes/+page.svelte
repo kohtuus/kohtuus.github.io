@@ -26,10 +26,10 @@
 	<Content>
 		<ContentBlock color="green">
 			<p>
-				Kuvittele tulevaisuus, jossa olet osa elämän kiertokulkua ja luonnon hyvinvointi on myös
-				sinun hyvinvointiasi. Et vie toisten mahdollisuuksia hyvään elämään – lähellä ja kaukana,
-				nyt ja tulevaisuudessa. Kuulut valitsemaasi yhteisöön, joka välittää ja tukee, mutta on myös
-				osa laajempaa demokraattista yhteiskuntaa. Voit hidastaa vauhtia ilman, että tunnet huonoa
+				Kuvittele huominen, jossa olet osa elämän kiertokulkua ja luonnon hyvinvointi on myös sinun
+				hyvinvointiasi. Et vie toisten mahdollisuuksia hyvään elämään lähellä etkä kaukana, nyt tai
+				tulevaisuudessa. Kuulut valitsemaasi yhteisöön, joka välittää ja tukee, mutta on myös osa
+				laajempaa demokraattista yhteiskuntaa. Voit hidastaa vauhtia ilman, että tunnet huonoa
 				omaatuntoa siitä.
 			</p>
 		</ContentBlock>
