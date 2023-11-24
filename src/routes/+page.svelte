@@ -86,26 +86,34 @@
 				</Person>
 				<Person id="elsa" name="Elsa Kivinen">
 					<p>
-						Elsa on...
+						Elsa on kiinnostunut degrowthin teorian ja käytäntöjen risteymistä ja siitä, mikä saa
+						ihmiset mukaan poliittiseen toimintaan. Hän toimii monissa yhteiskunnallisissa
+						liikkeissä tiedonvälittäjänä. Strateginen ajattelu ja yhteiskunnallisten voimavarojen
+						kasvattaminen ihmissuhteiden arvostamisen avulla motivoivat Elsaa.
 					</p>
 					<p>
-						sähköposti: <a href="mailto:elsa.kivinen@kohtuus.org">elsa.kivinen@kohtuus.org</a
-						>
+						sähköposti: <a href="mailto:elsa.kivinen@kohtuus.org">elsa.kivinen@kohtuus.org</a>
 					</p>
-                </Person>
+				</Person>
 				<Person id="juha" name="Juha Soivio">
-					<p>Juha on...</p>
+					<p>
+						Juhaa kiinnostaa degrowthiin liittyvä eriarvoisuuden poistaminen ja sosiaalinen muutos.
+						Juhan tausta on yhteiskuntatieteissä ja sosiaalialalla. Hän on mielellään
+						sillanrakentajana erilaisten toimijoiden välillä.
+					</p>
 					<p>
 						sähköposti: <a href="mailto:juha.soivio@kohtuus.org">juha.soivio@kohtuus.org</a>
 					</p>
 				</Person>
 				<Person id="katja" name="Katja Pellini">
 					<p>
-						Katja on...
+						Katja on kehitysyhteistyössä toimiva ekologi. Hän haluaa edistää kaikkien
+						mahdollisuuksia osallistua demokraattiseen päätöksentekoon Suomessa ja maailmalla ja on
+						kiinnostunut ihmisen luontosuhteesta. Katja opiskelee Degrowth maisteriohjelmassa
+						Barcelonan Autonomisessa Yliopistossa.
 					</p>
 					<p>
-						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a
-						>
+						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a>
 					</p>
 				</Person>
 				<Person id="timo" name="Timo Tiuraniemi">
