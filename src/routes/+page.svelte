@@ -84,40 +84,28 @@
 						><br />
 					</p>
 				</Person>
-				<Person id="timo" name="Timo Tiuraniemi">
+				<Person id="elsa" name="Elsa Kivinen">
 					<p>
-						Timo on filosofiataustainen ohjelmoija ja aktivisti. Hän on kiinnostunut avoimen
-						lähdekoodin ohjelmistoista ja teknologianfilosofiasta sekä niiden suhteesta
-						degrowth-ajatteluun. Timo vastaa tämän sivuston teknisestä ylläpidosta.
+						Elsa on...
 					</p>
 					<p>
-						sähköposti: <a href="mailto:timo.tiuraniemi@kohtuus.org">timo.tiuraniemi@kohtuus.org</a
-						><br />
-						kotisivu: <a href="https://tiuraniemi.org">tiuraniemi.org</a><br />
+						sähköposti: <a href="mailto:elsa.kivinen@kohtuus.org">elsa.kivinen@kohtuus.org</a
+						>
 					</p>
-				</Person>
-				<Person id="timo" name="Timo Tiuraniemi">
+                </Person>
+				<Person id="juha" name="Juha Soivio">
+					<p>Juha on...</p>
 					<p>
-						Timo on filosofiataustainen ohjelmoija ja aktivisti. Hän on kiinnostunut avoimen
-						lähdekoodin ohjelmistoista ja teknologianfilosofiasta sekä niiden suhteesta
-						degrowth-ajatteluun. Timo vastaa tämän sivuston teknisestä ylläpidosta.
-					</p>
-					<p>
-						sähköposti: <a href="mailto:timo.tiuraniemi@kohtuus.org">timo.tiuraniemi@kohtuus.org</a
-						><br />
-						kotisivu: <a href="https://tiuraniemi.org">tiuraniemi.org</a><br />
+						sähköposti: <a href="mailto:juha.soivio@kohtuus.org">juha.soivio@kohtuus.org</a>
 					</p>
 				</Person>
-				<Person id="timo" name="Timo Tiuraniemi">
+				<Person id="katja" name="Katja Pellini">
 					<p>
-						Timo on filosofiataustainen ohjelmoija ja aktivisti. Hän on kiinnostunut avoimen
-						lähdekoodin ohjelmistoista ja teknologianfilosofiasta sekä niiden suhteesta
-						degrowth-ajatteluun. Timo vastaa tämän sivuston teknisestä ylläpidosta.
+						Katja on...
 					</p>
 					<p>
-						sähköposti: <a href="mailto:timo.tiuraniemi@kohtuus.org">timo.tiuraniemi@kohtuus.org</a
-						><br />
-						kotisivu: <a href="https://tiuraniemi.org">tiuraniemi.org</a><br />
+						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a
+						>
 					</p>
 				</Person>
 				<Person id="timo" name="Timo Tiuraniemi">
