@@ -97,8 +97,8 @@
 				</Person>
 				<Person id="juha" name="Juha Soivio">
 					<p>
-						Juhaa kiinnostaa degrowthiin liittyvä eriarvoisuuden poistaminen ja sosiaalinen muutos.
-						Juhan tausta on yhteiskuntatieteissä ja sosiaalialalla. Hän on mielellään
+						Juhan tausta on yhteiskuntatieteissä ja sosiaalialalla. Degrowth-ajattelussa Juhaa
+						kiinnostaa eriarvoisuuden poistaminen ja sosiaalinen muutos. Juha on mielellään
 						sillanrakentajana erilaisten toimijoiden välillä.
 					</p>
 					<p>
@@ -108,9 +108,9 @@
 				<Person id="katja" name="Katja Pellini">
 					<p>
 						Katja on kehitysyhteistyössä toimiva ekologi. Hän haluaa edistää kaikkien
-						mahdollisuuksia osallistua demokraattiseen päätöksentekoon Suomessa ja maailmalla ja on
-						kiinnostunut ihmisen luontosuhteesta. Katja opiskelee Degrowth maisteriohjelmassa
-						Barcelonan Autonomisessa Yliopistossa.
+						mahdollisuuksia osallistua demokraattiseen päätöksentekoon ja on kiinnostunut ihmisen
+						luontosuhteesta. Katja opiskelee degrowth-maisteriohjelmassa Barcelonan autonomisessa
+						yliopistossa.
 					</p>
 					<p>
 						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a>
