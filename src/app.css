@@ -105,13 +105,13 @@ hr {
 /* Lower limit */
 @media (max-width: 400px) {
 	body {
-		font-size: 1rem;
+		font-size: 1.5rem;
 	}
 	body .small-body {
-		font-size: 1rem;
+		font-size: 1.2rem;
 	}
 	small {
-		font-size: 0.625rem;
+		font-size: 0.8rem;
 	}
 }
 
