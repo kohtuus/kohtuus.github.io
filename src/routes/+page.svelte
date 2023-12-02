@@ -1,6 +1,6 @@
 <script lang="ts">
-    import Hero from '$lib/Hero.svelte';
-    import LogoFi from '$lib/LogoFi.svelte';
+	import Hero from '$lib/Hero.svelte';
+	import LogoFi from '$lib/LogoFi.svelte';
 	import Content from '$lib/Content.svelte';
 	import ContentBlock from '$lib/ContentBlock.svelte';
 	import People from '$lib/People.svelte';
@@ -17,8 +17,8 @@
 
 <section>
 	<Hero>
-        <div class="front-content logo-wrapper">
-            <LogoFi/>
+		<div class="front-content logo-wrapper">
+			<LogoFi />
 		</div>
 	</Hero>
 	<Content>

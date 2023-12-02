@@ -1,5 +1,5 @@
 :root {
-    /* Neo-Grotesque from https://modernfontstacks.com/ */
+	/* Neo-Grotesque from https://modernfontstacks.com/ */
 	--font-base: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
 
 	--color-text: #262626;
@@ -146,13 +146,13 @@ picture {
 }
 
 .logo-wrapper {
-    max-width: 100rem;
-    margin: auto;
-    width: 100%;
+	max-width: 100rem;
+	margin: auto;
+	width: 100%;
 }
 
 .logo-wrapper svg {
-    width: 80%;
-    height: auto;
-    padding: 2em 0 2em 0;
+	width: 80%;
+	height: auto;
+	padding: 2em 0 2em 0;
 }
