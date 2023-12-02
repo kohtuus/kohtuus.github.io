@@ -11,8 +11,7 @@
 </script>
 
 <svelte:head>
-	<title>Kohtuus ry</title>
-	<meta name="description" content="Kohtuus ry" />
+	<meta name="description" content="Kohtuus – Radikaalisti parempi yhteiskunta" />
 </svelte:head>
 
 <section>
@@ -111,7 +110,9 @@
 						yliopistossa.
 					</p>
 					<p>
-						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a>
+						sähköposti: <a href="mailto:katja.pellini@kohtuus.org">katja.pellini@kohtuus.org</a><br
+						/>
+						blogi: <a href="https://ecologyalike.tumblr.com/">Ecology Alike</a><br />
 					</p>
 				</Person>
 				<Person id="timo" name="Timo Tiuraniemi">
