@@ -26,7 +26,7 @@
 		justify-content: space-between;
 		grid-template-columns: repeat(12, 1fr);
 		grid-gap: 1.5rem;
-        margin: 0 auto;
+		margin: 0 auto;
 		width: 80%;
 		max-width: 100rem;
 	}
