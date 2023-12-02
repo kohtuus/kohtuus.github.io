@@ -26,8 +26,9 @@
 		justify-content: space-between;
 		grid-template-columns: repeat(12, 1fr);
 		grid-gap: 1.5rem;
-		margin: 0 auto;
-		max-width: 95vw;
+        margin: 0 auto;
+		width: 80%;
+		max-width: 100rem;
 	}
 	.nav-wrapper a {
 		border-bottom: 0;
@@ -37,7 +38,7 @@
 		border-bottom: 2px solid;
 	}
 	.nav-wrapper .main-nav {
-		font-size: calc(0.75rem + 0.4vw);
+		font-size: calc(0.85rem + 0.4vw);
 		line-height: calc(1rem + 0.4vw);
 		flex: 1;
 	}
