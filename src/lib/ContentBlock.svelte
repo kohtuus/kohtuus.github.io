@@ -9,13 +9,9 @@
 </div>
 
 <style>
-	.content-block {
-		padding-left: 2em;
-		padding-right: 2em;
-	}
-
-	.content-block__content {
-		margin: 0 auto;
+    .content-block__content {
+        margin: 0 auto;
+        width: 80%;
 		max-width: 100rem;
 		padding: 5rem 0 5rem 0;
 	}

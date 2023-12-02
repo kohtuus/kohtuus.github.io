@@ -1,5 +1,6 @@
 <script context="module" lang="ts">
-	import Hero from '$lib/Hero.svelte';
+    import Hero from '$lib/Hero.svelte';
+    import LogoEn from '$lib/LogoEn.svelte';
 	import Content from '$lib/Content.svelte';
 	import { browser, dev } from '$app/environment';
 	export const hydrate = dev;
@@ -13,9 +14,8 @@
 
 <section>
 	<Hero>
-		<div class="front-content">
-			<h1>Kohtuus</h1>
-			A radically better society
+        <div class="front-content logo-wrapper">
+            <LogoEn/>
 		</div>
 	</Hero>
 
