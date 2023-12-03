@@ -13,7 +13,7 @@
 <svelte:head>
 	<meta name="description" content="Kohtuus – Radically better society" />
 	<meta property="og:url" content="https://kohtuus.org/en" />
-	<meta property="og:image" content="https://kohtuus.org/fi_og.jpg" />
+	<meta property="og:image" content="https://kohtuus.org/en_og.jpg" />
 </svelte:head>
 
 <section>
