@@ -12,6 +12,8 @@
 
 <svelte:head>
 	<meta name="description" content="Kohtuus – Radikaalisti parempi yhteiskunta" />
+	<meta property="og:url" content="https://kohtuus.org" />
+	<meta property="og:image" content="https://kohtuus.org/fi_og.jpg" />
 </svelte:head>
 
 <section>
