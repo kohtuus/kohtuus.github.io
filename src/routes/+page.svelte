@@ -47,12 +47,12 @@
 				yhteisistä asioista päättämiseen.
 			</p>
 			<p>
-				<b>Degrowth</b> ei ponnista tyhjästä. Maailmassa on monia vakiintuneita omavaraisuuten pyrkiviä
+				<b>Degrowth</b> ei ponnista tyhjästä. Maailmassa on monia vakiintuneita omavaraisuuteen pyrkiviä
 				yhteisöjä ja radikaaleja liikkeitä, joista degrowth-ajattelu oppii ja joita se tukee.
 			</p>
 			<p>
 				<b>Degrowth</b> merkitsee globaalissa pohjoisessa merkittävää poliittista ja taloudellista uudelleenjärjestelyä,
-				jossa energian ja resurssien käyttö on mitoitettu maapallon kantokyvyn rajoihin.
+				jossa energian ja resurssien käyttö mitoitetaan maapallon kantokyvyn rajoihin.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="orange">
