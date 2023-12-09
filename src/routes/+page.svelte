@@ -71,7 +71,8 @@
 			<p>
 				Kohtuus on yksi monista äänistä degrowth-liikkeessä, ja toimimme yhteistyössä muiden ryhmien
 				kanssa Suomessa ja maailmalla. Suomessa degrowth-ajattelua on edistänyt jo pitkään <a
-					href="https://kohtuusliike.fi/" style="color: #add8e6;">Kohtuusliike</a
+					href="https://kohtuusliike.fi/"
+					style="color: #add8e6;">Kohtuusliike</a
 				>.
 			</p>
 		</ContentBlock>

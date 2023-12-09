@@ -66,13 +66,13 @@
 			</p>
 			<p>
 				We collect, produce and disseminate information and ideas, and participate in social action.
-				We create spaces where people can come together to discuss. We cooperate with other
-				movements and groups in Finland and abroad.
+				We create spaces where people can come together to discuss.
 			</p>
 			<p>
 				Kohtuus is one of the many voices in the degrowth movement, and we cooperate with other
 				groups in Finland and around the world. In Finland, degrowth thinking has been promoted by <a
-					href="https://kohtuusliike.fi/" style="color: #add8e6;" >Kohtuusliike</a
+					href="https://kohtuusliike.fi/"
+					style="color: #add8e6;">Kohtuusliike</a
 				> for a long time
 			</p>
 			<p>"Kohtuus" is a deep-rooted term for sufficiency in Finnish.</p>
