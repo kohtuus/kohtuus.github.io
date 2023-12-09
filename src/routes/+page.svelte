@@ -28,8 +28,8 @@
 				Kuvittele huominen, jossa olet osa elämän kiertokulkua ja luonnon hyvinvointi on myös sinun
 				hyvinvointiasi. Et vie toisten mahdollisuuksia hyvään elämään lähellä etkä kaukana, nyt tai
 				tulevaisuudessa. Kuulut valitsemaasi yhteisöön, joka välittää ja tukee, mutta on myös osa
-				laajempaa demokraattista yhteiskuntaa. Voit hidastaa vauhtia ilman, että tunnet huonoa
-				omaatuntoa siitä.
+				laajempaa demokraattista yhteiskuntaa. Voimme yhdessä hidastaa vauhtia jakamalla resurssit
+				oikeudenmukaisesti.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="plain">
@@ -56,16 +56,23 @@
 			</p>
 		</ContentBlock>
 		<ContentBlock color="orange">
-			<h3>Mikä on Koht<i>uus</i>?</h3>
+			<h3>Mikä on Kohtuus?</h3>
 			<p>
-				Koht<i>uus</i> on ryhmä ja yhdistys, joka on kiinnostunut siitä, miten degrowth-ajatukset ilmenevät
-				suomalaisessa keskustelussa. Tukemalla degrowth-ajattelua Suomessa haluamme herätellä kriittistä
-				pohdintaa talouden ja politiikan rakenteista ja niiden kyvystä tarjota hyvä elämä kaikille.
+				Kohtuus on ryhmä ja yhdistys, joka on kiinnostunut siitä, miten degrowth-ajatukset ilmenevät
+				suomalaisessa keskustelussa. Ryhmä muotoitui lukupiiristä ja kokoonnumme yhä pohtimaan
+				degrowth-aiheisia tekstejä, joita haluamme ymmärtää yhdessä. Tukemalla degrowth-ajattelua
+				Suomessa haluamme herätellä kriittistä pohdintaa talouden ja politiikan rakenteista ja
+				niiden kyvystä tarjota hyvä elämä kaikille.
 			</p>
 			<p>
 				Keräämme, tuotamme ja välitämme tietoa ja ajatuksia, sekä osallistumme yhteiskunnalliseen
-				toimintaan. Luomme tiloja, joissa ihmiset voivat kokoontua keskustelemaan. Toimimme
-				yhteistyössä toisten liikkeiden ja ryhmien kanssa Suomessa ja maailmalla.
+				toimintaan. Luomme tiloja, joissa ihmiset voivat kokoontua keskustelemaan.
+			</p>
+			<p>
+				Kohtuus on yksi monista äänistä degrowth-liikkeessä, ja toimimme yhteistyössä muiden ryhmien
+				kanssa Suomessa ja maailmalla. Suomessa degrowth-ajattelua on edistänyt jo pitkään <a
+					href="https://kohtuusliike.fi/" style="color: #add8e6;">Kohtuusliike</a
+				>.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="plain">

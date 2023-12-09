@@ -28,8 +28,8 @@
 				Imagine a tomorrow where you are part of the circle of life and the well-being of nature is
 				also your well-being. You are not taking away the opportunities for a good life for others
 				near or far, now or in the future. You belong to a community of your choice that cares and
-				supports, but is also part of a wider democratic society. You can slow down without feeling
-				guilty about it.
+				supports, but is also part of a wider democratic society. Together, we can slow down the
+				pace by distributing resources fairly.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="plain">
@@ -56,17 +56,24 @@
 			</p>
 		</ContentBlock>
 		<ContentBlock color="orange">
-			<h3>What is Koht<i>uus</i>?</h3>
+			<h3>What is Kohtuus?</h3>
 			<p>
-				Koht<i>uus</i> is a group and association interested in how degrowth ideas are manifested in
-				the Finnish debate. By supporting degrowth thinking in Finland, we want to stimulate critical
-				reflection on economic and political structures and their ability to provide a good life for
-				all.
+				Kohtuus is a group and association interested in how degrowth ideas are manifested in the
+				Finnish debate. The group was formed from a reading circle and we still gather to think
+				about degrowth-related texts that we want to understand together. By supporting degrowth
+				thinking in Finland, we want to stimulate critical reflection on economic and political
+				structures and their ability to provide a good life for all.
 			</p>
 			<p>
 				We collect, produce and disseminate information and ideas, and participate in social action.
 				We create spaces where people can come together to discuss. We cooperate with other
 				movements and groups in Finland and abroad.
+			</p>
+			<p>
+				Kohtuus is one of the many voices in the degrowth movement, and we cooperate with other
+				groups in Finland and around the world. In Finland, degrowth thinking has been promoted by <a
+					href="https://kohtuusliike.fi/" style="color: #add8e6;" >Kohtuusliike</a
+				> for a long time
 			</p>
 			<p>"Kohtuus" is a deep-rooted term for sufficiency in Finnish.</p>
 		</ContentBlock>
