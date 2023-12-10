@@ -28,8 +28,8 @@
 				Imagine a tomorrow where you are part of the circle of life and the well-being of nature is
 				also your well-being. You are not taking away the opportunities for a good life for others
 				near or far, now or in the future. You belong to a community of your choice that cares and
-				supports, but is also part of a wider democratic society. Together, we can slow down the
-				pace by distributing resources fairly.
+				supports. You are part of a democratic society that can slow down in a controlled manner by
+				distributing resources fairly.
 			</p>
 		</ContentBlock>
 		<ContentBlock color="plain">
@@ -70,10 +70,8 @@
 			</p>
 			<p>
 				Kohtuus is one of the many voices in the degrowth movement, and we cooperate with other
-				groups in Finland and around the world. In Finland, degrowth thinking has been promoted by <a
-					href="https://kohtuusliike.fi/"
-					style="color: #add8e6;">Kohtuusliike</a
-				> for a long time
+				groups in Finland and around the world. In Finland, degrowth thinking has for long been
+				promoted by <a href="https://kohtuusliike.fi/" style="color: #add8e6;">Kohtuusliike</a>.
 			</p>
 			<p>"Kohtuus" is a deep-rooted term for sufficiency in Finnish.</p>
 		</ContentBlock>
