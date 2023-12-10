@@ -26,7 +26,7 @@
 		<ContentBlock color="green">
 			<p>
 				Kuvittele huominen, jossa olet osa elämän kiertokulkua ja luonnon hyvinvointi on myös sinun
-				hyvinvointiasi. Et vie toisten mahdollisuuksia hyvään elämään lähellä etkä kaukana, nyt tai
+				hyvinvointiasi. Et vie toisilta mahdollisuuksia hyvään elämään lähellä etkä kaukana, nyt tai
 				tulevaisuudessa. Kuulut valitsemaasi yhteisöön, joka välittää ja tukee. Olet osa
 				demokraattista yhteiskuntaa, joka voi hallitusti hidastaa vauhtia jakamalla resurssit
 				oikeudenmukaisesti.

@@ -26,8 +26,8 @@
 		<ContentBlock color="green">
 			<p>
 				Imagine a tomorrow where you are part of the circle of life and the well-being of nature is
-				also your well-being. You are not taking away the opportunities for a good life for others
-				near or far, now or in the future. You belong to a community of your choice that cares and
+				also your well-being. You are not taking away opportunities for a good life from others near
+				or far, now or in the future. You belong to a community of your choice that cares and
 				supports. You are part of a democratic society that can slow down in a controlled manner by
 				distributing resources fairly.
 			</p>
