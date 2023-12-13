@@ -1,7 +1,6 @@
 :root {
-	/* Neo-Grotesque from https://modernfontstacks.com/ */
-	--font-base: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
-
+	/* Geometric Humanist from https://modernfontstacks.com/ */
+	--font-base:  Avenir, Montserrat, Corbel, 'URW Gothic', source-sans-pro, sans-serif;
 	--color-text: #262626;
 	--color-background: #ffffff;
 	--color-link: #0600ed;
@@ -30,7 +29,7 @@ body {
 	background: var(--color-background);
 	color: var(--color-text);
 	font-family: var(--font-base);
-	font-size: calc(2rem + 0.5vw);
+	font-size: calc(1.8rem + 0.6vw);
 }
 
 h1,
@@ -76,6 +75,10 @@ p.subtitle {
 	font-size: 1.5em;
 }
 
+.small-body {
+	font-size: calc(1.5rem + 0.5vw);
+}
+
 small {
 	font-size: calc(0.5rem + 0.5vw);
 }
@@ -90,9 +93,9 @@ hr {
 }
 
 /* Upper limit */
-@media (min-width: 100rem) {
+@media (min-width: 120rem) {
 	body {
-		font-size: 3.6rem;
+		font-size: 3rem;
 	}
 	body .small-body {
 		font-size: 2rem;
@@ -103,12 +106,12 @@ hr {
 }
 
 /* Lower limit */
-@media (max-width: 400px) {
+@media (max-width: 450px) {
 	body {
 		font-size: 1.5rem;
 	}
 	body .small-body {
-		font-size: 1.2rem;
+		font-size: 1.3rem;
 	}
 	small {
 		font-size: 0.8rem;

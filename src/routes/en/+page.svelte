@@ -125,7 +125,7 @@
 				<Person id="timo" name="Timo Tiuraniemi">
 					<p>
 						Timo is a programmer and activist with a background in philosophy. He is interested in
-						open source software and philosophy of technology and its relation to degrowth thinking.
+						free software and the philosophy of technology and their relation to degrowth thinking.
 						Timo is responsible for the technical maintenance of this site.
 					</p>
 					<p>
